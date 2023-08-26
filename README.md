@@ -12,8 +12,13 @@ Processamento de Sinais e Aprendizado de Máquina em Telecomunicações.
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
+  
+<img align = "center" alt = "htlm15" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align = "center" alt = "htlm15" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align = "center" alt = "htlm15" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align = "center" alt = "htlm15" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img align = "center" alt = "htlm15" src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halique&layout=pie)](https://github.com/halique/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halique&langs_count=8)
